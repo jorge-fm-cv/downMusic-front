@@ -54,6 +54,12 @@
           ]
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ac2f8f6f-41e8-4c9e-ad1f-658a5a081ef8"
+      }
+    },
+    "owner": "jorgefm"
   }
 }
